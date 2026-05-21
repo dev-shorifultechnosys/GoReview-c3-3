@@ -1,0 +1,9 @@
+<svg width="92" height="92" viewBox="0 0 92 92" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs><linearGradient id="g" x1="19" y1="11" x2="73" y2="82"><stop stop-color="#0E7C61"/><stop offset="1" stop-color="#063E37"/></linearGradient><linearGradient id="gold" x1="16" y1="8" x2="76" y2="84"><stop stop-color="#F3D77D"/><stop offset="1" stop-color="#B9822F"/></linearGradient></defs>
+  <path d="M46 6c8.5 7 18.8 9.8 30 11.3v22.4C76 60.5 63.8 75 46 84 28.2 75 16 60.5 16 39.7V17.3C27.2 15.8 37.5 13 46 6Z" fill="url(#gold)"/>
+  <path d="M46 12.5c7.1 5.6 15.5 8.1 24.6 9.3v17.7C70.6 56 60.7 68 46 75.8 31.3 68 21.4 56 21.4 39.5V21.8c9.1-1.2 17.5-3.7 24.6-9.3Z" fill="#fff"/>
+  <path d="M46 18.5c5.9 4.4 12.8 6.5 20.1 7.5v13.9c0 12.7-7.8 22.5-20.1 29.2-12.3-6.7-20.1-16.5-20.1-29.2V26c7.3-1 14.2-3.1 20.1-7.5Z" fill="url(#g)"/>
+  <path d="M34 44.2 42.1 52 59.3 34.8" stroke="#fff" stroke-width="7.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M19 68.5c-4.9-2.3-8.7-5.4-11.5-9.2M73 68.5c4.9-2.3 8.7-5.4 11.5-9.2" stroke="#0E7C61" stroke-width="3" stroke-linecap="round"/>
+  <path d="M24 74.5c-4.1-1.6-7.6-3.8-10.6-6.8M68 74.5c4.1-1.6 7.6-3.8 10.6-6.8" stroke="#B9822F" stroke-width="2.7" stroke-linecap="round"/>
+</svg>
